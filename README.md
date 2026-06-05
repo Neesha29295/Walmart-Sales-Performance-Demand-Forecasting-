@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis — SQL Project
+# Walmart Sales Performance & Demand Forecasting 
 
 ## About
 This project analyses Walmart's retail sales data across 3 branches to understand top performing product lines, sales trends, customer behaviour, and revenue growth patterns. The goal is to derive actionable business insights that can help optimize sales strategies.
